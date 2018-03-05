@@ -1,0 +1,9 @@
+model {
+for(i in 1:N) {
+Y[i] ~ dpois(lambda[i])
+lambda[i] ~ dgamma(alpha, beta) }
+
+### priors
+alpha ~ dgamma(0.5,0.005)
+beta ~ dgamma(0.5,0.005)
+}

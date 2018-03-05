@@ -1,0 +1,51 @@
+C1,actual,max,index,sales,assets,age,prmarg,roce,current,sector,listing,audit
+1,132,136,97.06,37.117,68.832,25,10.5,7.6,0.55,conglom,listed,big five
+2,52,54,96.30,0.191,13.503,9,-63.8,-0.9,70.3,conglom,listed,big five
+3,108,113,95.58,1.209,11.719,16,79.3,8.51,1.52,other,listed,big five
+4,144,153,94.12,46.463,49.274,70,6.6,8,1.12,conglom,listed,big five
+5,69,74,93.24,0.944,11.8,17,13.7,1.1,28.9,other,listed,big five
+6,96,104,92.31,5.382,38.936,,13.3,1.9,1.59,other,listed,big five
+7,87,95,91.58,9.241,34.972,45,12.7,3.6,2.87,manuf,listed,big five
+8,105,115,91.30,16.201,19.191,53,5.3,5.4,0.58,conglom,listed,big five
+9,122,134,91.04,124.483,172.262,50,4.4,3.9,0.44,other,listed,big five
+10,109,120,90.83,26.272,47.73,33,23,13.8,1.23,manuf,listed,big five
+11,57,63,90.48,0.367,0.431,21,-8.5,-8.2,5.04,manuf,listed,big five
+12,86,96,89.58,4.399,12.648,17,2.1,0.8,0.63,other,listed,big five
+13,91,102,89.22,5.851,12.921,50,11.9,6.1,2.05,conglom,not listed,big five
+14,72,81,88.89,0.986,6.104,18,11.4,1.9,0.61,other,listed,big five
+15,74,84,88.10,9.983,5.974,27,4.6,8.8,2.64,manuf,listed,big five
+16,65,74,87.84,1.386,13.069,83.8,83.8,9.9,1.21,other,listed,big five
+17,62,71,87.32,0.627,28.934,33,-6.9,-0.2,0.13,other,listed,big five
+18,89,102,87.25,1.768,20.232,79.8,79.8,9.4,2.46,other,not listed,big five
+19,102,117,87.18,31.387,60.441,69,5.3,3.2,1.27,manuf,listed,big five
+20,88,101,87.13,3.661,36.186,8,-1.1,-0.1,0.38,other,listed,big five
+21,81,93,87.10,11.216,5.11,27,1.6,4.5,1.03,manuf,not listed,big five
+22,85,98,86.73,26.234,23.831,52,2.5,3,1.22,manuf,not listed,big five
+23,70,81,86.42,2.634,5.232,8,-21.9,-14.3,1.05,manuf,listed,big five
+24,67,78,85.90,5.238,22.683,11,18,4.3,0.56,other,listed,big five
+25,100,108,92.59,59.223,125.429,48,13.8,7.2,1.63,conglom,not listed,big five
+26,60,70,85.71,0.028,1.587,7,-1249.1,-23.6,7.51,other,listed,big five
+27,58,68,85.29,1.365,2.524,15,-8.1,-4.8,0.24,other,listed,big five
+28,73,86,84.88,0.881,1.138,,13,16.2,1.13,other,not listed,big five
+29,99,119,83.19,7.087,26.276,,0.2,0.1,0.27,other,listed,big five
+30,64,77,83.12,0.292,2.228,17,6.9,0.9,0.46,other,listed,big five
+31,69,85,81.18,2.56,9.374,59,6.9,1.3,1.4,other,not listed,big five
+32,54,70,77.14,0.409,1.369,,4.5,2.1,0.74,manuf,not listed,not big five
+33,74,91,81.32,2.382,3.913,,7,7.8,2.89,other,listed,big five
+34,45,56,80.36,0.044,0.028,,-12.6,0,0.53,other,not listed,not big five
+35,51,63,80.95,0.014,1.052,5,-636.3,-9.5,6.89,other,listed,big five
+36,91,100,91.00,1.569,6.664,28,-0.2,-0.1,0.57,conglom,not listed,big five
+37,61,78,78.21,1.17,1.115,,-2.7,-4.1,0.98,other,not listed,not big five
+38,68,85,80.00,5.245,9.01,28,-9,-6.4,1.09,manuf,listed,big five
+39,60,75,80.00,0.012,19.843,,-725.51,-0.4,0.12,other,not listed,big five
+40,43,54,79.63,0.012,0.285,,18.2,0.8,1.58,other,not listed,big five
+41,50,61,81.97,0.192,0.087,,-2.3,-6.5,0.79,other,not listed,not big five
+42,74,94,78.72,12.04,12.114,50,7.1,8.1,1.06,manuf,not listed,not big five
+43,74,94,78.72,8.703,12.311,,6.8,5.8,2.05,manuf,not listed,not big five
+44,70,95,73.68,4.767,13.956,,8.9,3.3,3,manuf,not listed,not big five
+45,52,70,74.29,0.256,0.811,,-35.5,-19.3,1.08,other,not listed,big five
+46,54,73,73.97,1.624,3.019,6,-16.2,-16.4,0.75,other,not listed,big five
+47,52,71,73.24,0.233,1.505,47,63,7.2,12.8,other,not listed,big five
+48,65,89,73.03,1.514,1.549,25,6.7,7.9,0.7,other,not listed,big five
+49,38,53,71.70,0.411,0.093,,0.1,0.9,1.97,other,not listed,big five
+50,53,80,66.25,0.136,5.452,30,5.4,0.1,15,other,not listed,not big five
